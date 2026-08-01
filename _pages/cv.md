@@ -17,23 +17,19 @@ Education
 
 Research experience
 ======
-Master's thesis student - 2025
-  * University of Zurich
+Master's thesis student - University of Zurich, 2025
   * Research: N-body simulations of modified gravity
   * Supervisor: Prof. Julian Adamek
 
-Research Summer Student - 2023
-  * KEK Structural Biology Research Center
+Research Summer Student - KEK Structural Biology Research Center, 2023
   * Research: Data analysis of Cryo-EM images
   * Supervisor: Associate Prof. Toshio Moriya
 
-Bachelor's Dissertation - 2023
-  * Queen Mary University of London
+Bachelor's Dissertation - Queen Mary University of London, 2023
   * Research: Super-resolution via spectral florecense microscopy
   * Supervisor: Senior Lecturer Dr. Andrea Sapelkin
 
-Research Summer Intern - 2022
-  * Rayner Lt.
+Research Summer Intern - Rayner Lt., 2022
   * Research: Data analysis of eye biometrics
   * Supervisor: Dr. Otavio Gomes
   

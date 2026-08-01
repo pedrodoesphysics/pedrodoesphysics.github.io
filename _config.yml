@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Pedro website attempt"
+site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "!!!!Under Construction!!!!"
 title_separator          : "-"
 name                     : &name "Pedro B. Navarro"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -27,10 +27,10 @@ author:
   name             : "Pedro B. Navarro"
   pronouns         : # example: "she/her"  
   bio              : "Theoretical Physics PhD student"
-  location         : "Northern Hemisphere"
+  location         : "51° 29' 54\" N, 0° 10' 36\" W"
   employer         : "Imperial College London"
   uri              : # URL
-  email            : "" 
+  email            : "p.XXX@imperial.ac.uk" 
 
   # Academic websites
   academia         : # URL

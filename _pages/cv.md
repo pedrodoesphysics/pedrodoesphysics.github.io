@@ -11,54 +11,54 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Incoming Ph.D student in Theoretical Physics, Imperial College London, 2030
+* M.S. in Physics, ETH Zurich, 2026
+* B.S. in Physics, Queen Marry University of London, 2023
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring: Master's thesis student
+  * University of Zurich
+  * Research: N-body simulations of modified gravity
+  * Supervisor: Prof. Julian Adamek
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023: Research Student
+  * KEK Structural Biology Research Center
+  * Research: Data analysis of Cryo-EM images
+  * Supervisor: Associate Prof. Toshio Moriya
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Academic year 2022/23: BSc. Dissertation
+  * Queen Mary University of London
+  * Research: Super-resolution via spectral florecense microscopy
+  * Supervisor: Senior Lecturer Dr. Andrea Sapelkin
+
+* Summer 2022: Research Intern
+  * Rayner Lt.
+  * Research: Data analysis of eye biometrics
+  * Supervisor: Dr. Otavio Gomes
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+
+* None (yet)
+  <!-- <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
+* None (yet)
+  <!-- <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
+* Nothing (yet)
+  <!-- <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+Fun things
 ======
-* Currently signed in to 43 different slack teams
+* Div 3 Volleyball player and occasional coach

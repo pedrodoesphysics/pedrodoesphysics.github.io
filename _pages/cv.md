@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,28 +11,28 @@ redirect_from:
 
 Education
 ======
-* Incoming Ph.D student in Theoretical Physics, Imperial College London, 2030
+* Ph.D in Theoretical Physics, Imperial College London, 2030 (expected)
 * M.S. in Physics, ETH Zurich, 2026
 * B.S. in Physics, Queen Marry University of London, 2023
 
 Research experience
 ======
-* Spring: Master's thesis student
+Master's thesis student - 2025
   * University of Zurich
   * Research: N-body simulations of modified gravity
   * Supervisor: Prof. Julian Adamek
 
-* Summer 2023: Research Student
+Research Summer Student - 2023
   * KEK Structural Biology Research Center
   * Research: Data analysis of Cryo-EM images
   * Supervisor: Associate Prof. Toshio Moriya
 
-* Academic year 2022/23: BSc. Dissertation
+Bachelor's Dissertation - 2023
   * Queen Mary University of London
   * Research: Super-resolution via spectral florecense microscopy
   * Supervisor: Senior Lecturer Dr. Andrea Sapelkin
 
-* Summer 2022: Research Intern
+Research Summer Intern - 2022
   * Rayner Lt.
   * Research: Data analysis of eye biometrics
   * Supervisor: Dr. Otavio Gomes
@@ -59,6 +59,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Fun things
+Other Fun things
 ======
 * Div 3 Volleyball player and occasional coach

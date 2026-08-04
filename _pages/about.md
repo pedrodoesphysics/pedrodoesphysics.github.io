@@ -16,7 +16,6 @@ My interests throughout my physics education has flip flopped from optics and bi
 
 - **Imperial College London** (2030 expected) - PhD in Theoretical Physics
 - **ETH Z&uuml;rich** (2026) - MSc in Physics
-
 - **Queen Mary University of London** (2023) - BSc (Hons) in Physics
 - **The Grey Coats Hospital** (2020) - A Level: Maths, Futher Maths, Physics
 - **Raines Foundation School** (2018) - Some GCSEs

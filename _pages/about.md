@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming PhD student at the Abdus Salam Centre for Theoretical Physics, co-supervised by Dr. Andrea Mitridate and Prof. Carlo Contaldi.
+I am an incoming PhD student at the Abdus Salam Centre for Theoretical Physics, co-supervised by Dr. Andrea Mitridate and Prof. Carlo Contaldi, working at the boundary between theory and data.
 
 My interests throughout my physics education has flip flopped from optics and biophysics, to modified gravity and cosmology. After dipping my toes in bit and pieces of physics, gravity and cosmology have won my heart. So now, for my PhD what else could be more exciting but to get my hands dirty and try contribute to our understanding of the relatively (_wink_) new and exciting probe of our mysterious universe, graviational waves!
 
